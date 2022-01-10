@@ -1,0 +1,15 @@
+D:\CodeRepo\DotNetExploring\Exploring.Thread\bin\Debug\net6.0\Exploring.Thread.exe
+D:\CodeRepo\DotNetExploring\Exploring.Thread\bin\Debug\net6.0\Exploring.Thread.deps.json
+D:\CodeRepo\DotNetExploring\Exploring.Thread\bin\Debug\net6.0\Exploring.Thread.runtimeconfig.json
+D:\CodeRepo\DotNetExploring\Exploring.Thread\bin\Debug\net6.0\Exploring.Thread.dll
+D:\CodeRepo\DotNetExploring\Exploring.Thread\bin\Debug\net6.0\ref\Exploring.Thread.dll
+D:\CodeRepo\DotNetExploring\Exploring.Thread\bin\Debug\net6.0\Exploring.Thread.pdb
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.csproj.AssemblyReference.cache
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.AssemblyInfoInputs.cache
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.AssemblyInfo.cs
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.csproj.CoreCompileInputs.cache
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.dll
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\ref\Exploring.Thread.dll
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.pdb
+D:\CodeRepo\DotNetExploring\Exploring.Thread\obj\Debug\net6.0\Exploring.Thread.genruntimeconfig.cache
